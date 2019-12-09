@@ -17,11 +17,10 @@ sections:
           - label: Learn More
             url: /features
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
-        image: images/feature1.png
-        title: The Best Feature of Your Services
+          Our system will also meet the user requirements with respect to
+          performance, functionality, stability and satisfaction.
+        image: /images/light-speed.png
+        title: The Best Feature of our Services
       - actions:
           - label: Learn More
             url: /features
