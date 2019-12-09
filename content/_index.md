@@ -39,7 +39,7 @@ sections:
           the need for paper, eliminate the need for multiple steps, and other
           major inefficiencies
         image: images/feature3.png
-        title: Cool Feature of Your Services
+        title: Smart Management system
     section_id: features
     subtitle: >-
       A product that is available across every device and operating system that
