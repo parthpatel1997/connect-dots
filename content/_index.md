@@ -7,7 +7,7 @@ sections:
     content: >-
       Connect Dots is the perfect tool for handling and managing various types
       of events and competitions.
-    image: images/hero.png
+    image: /images/girl.png
     section_id: hero
     title: A Digital Way To Manage College Events
     type: section_hero
