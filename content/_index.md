@@ -41,8 +41,8 @@ sections:
         title: Cool Feature of Your Services
     section_id: features
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      A product that is available across every device and operating system that
+      is easy to use, intuitive and is supported by on-site
     title: Features
     type: section_features
   - bg: white
