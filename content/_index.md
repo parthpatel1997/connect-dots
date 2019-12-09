@@ -19,7 +19,7 @@ sections:
         content: >-
           Our system will also meet the user requirements with respect to
           performance, functionality, stability and satisfaction.
-        image: /images/light-speed.png
+        image: /images/faq-guy.png
         title: The Best Feature of our Services
       - actions:
           - label: Learn More
