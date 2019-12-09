@@ -25,11 +25,11 @@ sections:
           - label: Learn More
             url: /features
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
-        image: images/feature2.png
-        title: Awesome Feature of Your Services
+          Our Administrator dashboard makes it easy to pull up reports and
+          analyze them with your team.You can even generate reports and receipts
+          directly to the inbox.
+        image: /images/electronic.png
+        title: We Provide Easy to Read Reports
       - actions:
           - label: Learn More
             url: /features
@@ -42,7 +42,7 @@ sections:
     section_id: features
     subtitle: >-
       A product that is available across every device and operating system that
-      is easy to use, intuitive and is supported by on-site
+      is easy to use, intuitive and is supported by on-site.
     title: Features
     type: section_features
   - bg: white
