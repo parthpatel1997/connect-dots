@@ -34,9 +34,10 @@ sections:
           - label: Learn More
             url: /features
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+          With Connect Dots, it is a huge benefit to us to find one single
+          system that lifts the administrative burden of our staff and eliminate
+          the need for paper, eliminate the need for multiple steps, and other
+          major inefficiencies
         image: images/feature3.png
         title: Cool Feature of Your Services
     section_id: features
