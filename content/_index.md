@@ -28,7 +28,7 @@ sections:
           Our Administrator dashboard makes it easy to pull up reports and
           analyze them with your team.You can even generate reports and receipts
           directly to the inbox.
-        image: /images/electronic.png
+        image: /images/slider15.png
         title: We Provide Easy to Read Reports
       - actions:
           - label: Learn More
