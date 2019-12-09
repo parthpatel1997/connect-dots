@@ -38,7 +38,7 @@ sections:
           system that lifts the administrative burden of our staff and eliminate
           the need for paper, eliminate the need for multiple steps, and other
           major inefficiencies
-        image: images/feature3.png
+        image: /images/timemanagement.png
         title: Smart Management system
     section_id: features
     subtitle: >-
