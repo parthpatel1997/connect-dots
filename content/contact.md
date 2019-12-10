@@ -1,17 +1,15 @@
 ---
 title: Contact
 sections:
-  - type: section_contact
+  - bg: gray
+    content: ''
     section_id: contact
     title: Contact
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
-      tortor pretium ligula.
-    bg: gray
+    type: section_contact
 menu:
   secondary:
     name: Contact
     weight: 3
 layout: landing
 ---
+
