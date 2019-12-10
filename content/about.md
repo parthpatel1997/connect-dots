@@ -1,7 +1,7 @@
 ---
 title: About Us
 subtitle: ''
-img_path: images/about.jpg
+img_path: /images/aboutus.png
 menu:
   secondary:
     name: About Us
