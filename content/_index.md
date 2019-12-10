@@ -13,17 +13,13 @@ sections:
     type: section_hero
   - bg: gray
     featureslist:
-      - actions:
-          - label: Learn More
-            url: /features
+      - actions: []
         content: >-
           Our system will  meet the user requirements with respect to
           performance, functionality, stability and satisfaction.
         image: /images/faq-guy.png
         title: The Best Feature of our Services
-      - actions:
-          - label: Learn More
-            url: /features
+      - actions: []
         content: >-
           Our Administrator dashboard makes it easy to pull up reports and
           analyze them with your team.You can even generate reports and receipts
