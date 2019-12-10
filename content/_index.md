@@ -46,13 +46,6 @@ sections:
       is easy to use, intuitive and is supported by on-site.
     title: 'Our Commitment '
     type: section_features
-  - actions:
-      - label: Get Started
-        url: /signup
-    section_id: call-to-action
-    subtitle: This is an optional description for the call to action block.
-    title: This Is Call To Action Block!
-    type: section_cta
   - bg: gray
     section_id: recent-posts
     title: Latest Posts
