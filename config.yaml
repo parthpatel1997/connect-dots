@@ -15,7 +15,7 @@ params:
     social_title: Community
     subscribe_content: Stay up to date with our latest developments.
     subscribe_title: Subscribe
-    tagline: CONNECT DOTS
+    tagline: ''
   header:
     has_nav: true
     logo_img: ''
