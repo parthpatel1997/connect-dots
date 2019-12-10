@@ -4,8 +4,6 @@ sections:
   - bg: gray
     featureslist:
       - content: >-
-
-
           ## Smart and Digital Approach
 
 
@@ -27,6 +25,9 @@ sections:
           * User friendliness is provided within the application with  numerous
           controls furnished by using machine rich person interface. This system
           provides the employees to manage the events systematically.
+
+
+          ## 
 
 
           ##
