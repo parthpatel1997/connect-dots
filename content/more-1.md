@@ -10,6 +10,10 @@ sections:
           events”
     title: ''
     type: section_features
+menu:
+  main:
+    name: More
+    weight: 2
 layout: landing
 ---
 
