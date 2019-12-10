@@ -46,10 +46,6 @@ sections:
       is easy to use, intuitive and is supported by on-site.
     title: 'Our Commitment '
     type: section_features
-  - bg: gray
-    section_id: recent-posts
-    title: Why Work with Us?
-    type: section_posts
 menu:
   main:
     name: Home
