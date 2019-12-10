@@ -1,10 +1,7 @@
 ---
 title: Home
 sections:
-  - actions:
-      - label: Learn More
-        url: /features
-      - label: Learn more
+  - actions: []
     content: >-
       Connect Dots is the perfect tool for handling and managing various types
       of events and competitions.
