@@ -3,7 +3,7 @@ title: Home
 sections:
   - actions:
       - label: Learn More
-        url: /More
+        url: 'https://connect-dots-ec466.netlify.com/more-1/'
     content: >-
       Connect Dots is the perfect tool for handling and managing various types
       of events and competitions.
