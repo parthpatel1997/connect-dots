@@ -48,7 +48,7 @@ sections:
     type: section_features
   - bg: gray
     section_id: recent-posts
-    title: Latest Posts
+    title: Why Work with Us?
     type: section_posts
 menu:
   main:
