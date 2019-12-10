@@ -30,9 +30,7 @@ sections:
           directly to the inbox.
         image: /images/slider15.png
         title: We Provide Easy to Read Reports
-      - actions:
-          - label: Learn More
-            url: /features
+      - actions: []
         content: >-
           With Connect Dots, it is a huge benefit to us to find one single
           system that lifts the administrative burden of our staff ,saves time
