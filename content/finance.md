@@ -3,7 +3,7 @@ title: Finance
 sections:
   - bg: gray
     featureslist:
-      - content: '![](/images/finace-chart.png)'
+      - content: ''
         image: /images/finace.png
         title: Money Investment for our venture
     title: ''
