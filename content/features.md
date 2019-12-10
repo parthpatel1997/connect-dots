@@ -32,7 +32,7 @@ sections:
     type: section_cta
 menu:
   main:
-    name: Features
+    name: Vision
     weight: 2
 layout: landing
 ---
