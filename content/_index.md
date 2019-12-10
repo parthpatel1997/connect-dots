@@ -44,7 +44,7 @@ sections:
     subtitle: >-
       A product that is available across every device and operating system that
       is easy to use, intuitive and is supported by on-site.
-    title: 'Our Commitments '
+    title: 'Our Commitment '
     type: section_features
   - bg: gray
     section_id: recent-posts
