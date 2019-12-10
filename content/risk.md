@@ -8,19 +8,18 @@ sections:
 
 
           * Brand reorganization is very important to any company for boosting
-             the overall performance of a business and an easy way to target the market. Our
-            venture is not a new system to the community and they are successfully running with
-            a limited boundary.
+             the overall performance of a business and an easy way to target the market. Our venture is not a new system to the community and they are successfully running with a limited boundary.
 
           ## Market Demand Risk
 
 
-          * Market demand is
-            very essential to any kind of occupation in order to forecast the product in the correct
-            time. When these forecasts are inaccurate it can result into to losses or low
-            performance. Our venture will be only active when there are some kinds of
-            traditional and college events organized. It is one type of venture which rises and
-            falls shortly accordingly to market demand.
+          * Market demand is very essential to any kind of occupation in order
+          to forecast the product in the correct time. When these forecasts are
+          inaccurate it can result into to losses or low performance. Our
+          venture will be only active when there are some kinds of traditional
+          and college events organized. It is one type of venture which rises
+          and falls shortly accordingly to market demand.
+
 
           ## Technology risk
 
