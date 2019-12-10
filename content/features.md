@@ -1,11 +1,7 @@
 ---
 title: Vision
 sections:
-  - actions:
-      - label: Free Trial
-        url: /signup
-      - label: View Demo
-        url: '#'
+  - actions: []
     bg: gray
     content: >-
       * The objective of our company is to develop a system that effectively
@@ -16,8 +12,7 @@ sections:
 
 
       * We are going to provide solution from top level person of the handling
-      an event to the bottom level person digitally with the transparent
-      process.
+      an event to the bottom level person digitally with the transparent process
 
 
 
