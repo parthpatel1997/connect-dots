@@ -35,9 +35,9 @@ sections:
             url: /features
         content: >-
           With Connect Dots, it is a huge benefit to us to find one single
-          system that lifts the administrative burden of our staff and eliminate
-          the need for paper, eliminate the need for multiple steps, and other
-          major inefficiencies
+          system that lifts the administrative burden of our staff ,saves time
+          and eliminate the need for paper. Its also eliminates the need for
+          multiple steps, and other major inefficiencies
         image: /images/timemanagement.png
         title: Smart Management system
     section_id: features
